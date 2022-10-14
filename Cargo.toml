@@ -14,9 +14,9 @@ description = "Vuetify components for Yew Framework"
 
 [dependencies]
 mixin = "0.2.0"
-strum = { version = "0.18.0", features = ["derive"] }
-yew = { git = "ssh://git@github.com/yewstack/yew", branch = "push-if" }
+strum = { version = "0.24.1", features = ["derive"] }
+yew = "0.19.3"
 
 [build-dependencies]
 anyhow = "1.0.28"
-sass-rs = { git = "ssh://git@github.com/compass-rs/sass-rs" }
+rsass = "0.26.0"
