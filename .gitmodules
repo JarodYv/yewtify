@@ -1,3 +1,4 @@
-[submodule "vuetify"]
+
+[submodule "styles/vuetify"]
 	path = styles/vuetify
-	url = git@github.com:vuetifyjs/vuetify.git
+	url = https://github.com/vuetifyjs/vuetify.git
